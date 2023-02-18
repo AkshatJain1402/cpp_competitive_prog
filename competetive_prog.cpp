@@ -1,6 +1,15 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+
+string reverse(string a){
+
+    
+
+};
+
+
+
 class entity{
 
     public:
@@ -76,15 +85,20 @@ int main(){
 
 int i=0,j,temp=0,k,a[4],size;
 
-int* ptr=&i;
-*ptr=*ptr+1;
-cout<<i<<endl;
-int& f=i;
-cout<<f<<endl;
-f=f+1;
-cout<<i;
+// int* ptr=&i;
+// *ptr=*ptr+1;
+// cout<<i<<endl;
+// int& f=i;
+// cout<<f<<endl;
+// f=f+1;
+// cout<<i;
 
-// cout<<size<<endl;
+string z;
+cin>>z;
+cout<<"ee";
+
+
+// cout<<size<<endl;4
 
 
 }
